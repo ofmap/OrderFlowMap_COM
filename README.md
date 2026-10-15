@@ -427,6 +427,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 - [TradingView Lightweight Charts](https://tradingview.github.io/lightweight-charts/) — the high-performance charting library powering the visualization
 - [Bookmap](https://bookmap.com/) — inspiration for the heatmap visualization concept
+- FlowMapTrader ( https://flowmaptrader.com) - Advanced Heatmap Visualization
 - [OpenAlgo](https://github.com/marketcalls/openalgo) by [@marketcalls](https://github.com/marketcalls) — self-hosted WebSocket server for Indian market data feeds
 
 ---
