@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://azhagesan-dev.github.io/OrderFlowMap/"><img src="https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-blue?style=for-the-badge" alt="Live Demo"/></a>
-  <a href="https://github.com/Azhagesan-dev/OrderFlowMap/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
+  <a href="https://flowmaptrader.com"><img src="https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-blue?style=for-the-badge" alt="Live Demo"/></a>
+  <a href="https://flowmaptrader.com"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ It works in two modes:
 
 ## Live Demo
 
-### 👉 [**Try it live in your browser →**](https://azhagesan-dev.github.io/OrderFlowMap/)
+### 👉 [**Try it live in your browser →**]([https://azhagesan-dev.github.io/OrderFlowMap/](https://flowmaptrader.com))
 
 No installation required — the simulation mode works instantly. Just open and explore.
 
